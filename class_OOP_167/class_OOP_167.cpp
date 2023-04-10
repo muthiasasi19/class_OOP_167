@@ -5,4 +5,7 @@ class Mahasiswa {
 public:
 		int nim;
 		string nama;
+		void tampil() {
+			
+		}
 };
