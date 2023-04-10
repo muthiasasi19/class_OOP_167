@@ -41,8 +41,9 @@ int main() {
 	cin >> mhs.nim;
 	cout << "Masukkan Nama Mahasiswa = ";
 	cin >> mhs.nama;
+	mhs.tampil();
 	mk.inputMK();
 	mk.tampilMK();
-	mhs.tampil();
+	
 };
 
